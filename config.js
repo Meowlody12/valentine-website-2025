@@ -1,5 +1,5 @@
 // Basic Information
-valentineName: "Shen Jiaying"                    // Your Valentine's name
+valentineName: "shen jiaying"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
